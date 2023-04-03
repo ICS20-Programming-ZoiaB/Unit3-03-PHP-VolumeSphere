@@ -1,0 +1,27 @@
+/* Created by: ZoiaB
+* Created on: April 13, 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-03-HTML-VolumeSphere
+*/
+
+body {
+  width: 80%;
+  margin: 5% 10%;
+  background-color: #c1b2d7;
+}
+
+h1 {
+  text-align: center;
+  background-color: #7489f1;
+  color: white;
+  padding: 20px;
+}
+
+h3 {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  background-color: #7489f1;
+}
