@@ -8,4 +8,4 @@
 ?>
 
 <h3>Results:</h3>
-The volume of the sphere is <?php echo "$volumeRounded" ?> cm<sup>2</sup>.
+The volume of the sphere is <?php echo "$volumeRounded" ?> cm<sup>3</sup>.
